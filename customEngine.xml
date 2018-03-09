@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomSearchEngine id="wvsnl7ztkuw" creator="017764858275578726086" language="en" encoding="UTF-8" enable_suggest="true">
+    <Title>Custom Search Engine</Title>
+    <Context>
+        <BackgroundLabels>
+            <Label name="_cse_wvsnl7ztkuw" mode="FILTER" />
+            <Label name="_cse_exclude_wvsnl7ztkuw" mode="ELIMINATE" />
+        </BackgroundLabels>
+        <LookAndFeel custom_theme="true" nonprofit="false" theme="7" text_font="Arial sans-serif" enable_cse_thumbnail="true" element_branding="show" element_layout="8" promotion_url_length="full" ads_layout="1">
+            <Logo />
+            <Colors />
+            <Promotions />
+            <SearchControls />
+            <Results />
+        </LookAndFeel>
+        <AdSense />
+        <EnterpriseAccount />
+        <ImageSearchSettings enable="false" />
+        <autocomplete_settings />
+        <sort_by_keys key="" label="Relevance" />
+        <sort_by_keys key="date" label="Date" />
+        <cse_advance_settings enable_speech="true" />
+    </Context>
+</CustomSearchEngine>
